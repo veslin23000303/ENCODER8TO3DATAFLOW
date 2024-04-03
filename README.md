@@ -61,3 +61,4 @@ RegisterNumber:212223240175
 
 
 **RESULTS**
+Thus, an 8*3 encoder has been implemented using verilog successfully.
